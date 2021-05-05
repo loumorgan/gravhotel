@@ -1,0 +1,90 @@
+form: flex-pages
+unique_id: e29312bd8a547094f63ca962f0270dba
+url: 'http://localhost:8000/admin/pages/contact'
+user:
+  username: bleulou
+  email: loumorgan.preformation@gmail.com
+timestamps:
+  created: 1620241104
+  updated: 1620241109
+data:
+  header:
+    title: contact
+    media_order: null
+    body_classes: 'title-center title-h1h2'
+    menu: contact
+    order_by: null
+    order_manual: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "# Une question ?\n## Contactez-nous !\n\n\n\n"
+  folder: Contact
+  route: null
+  name: default
+  ordering: true
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  value: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: contact
+  storage_key: 03.contact
+  timestamp: 1620232075
+  serialized:
+    __META:
+      key: contact
+      storage_key: 03.contact
+      template: default
+      storage_timestamp: 1620232075
+      markdown:
+        '': { default: 1620232075 }
+      checksum: 8e8c7b0e7a4124986cb95d15dabca379
+    storage_key: 03.contact
+    parent_key: ''
+    order: '03.'
+    folder: contact
+    template: default
+    lang: ''
+    header:
+      title: contact
+      menu: contact
+      body_classes: 'title-center title-h1h2'
+    root: false
+    frontmatter: "title: contact\nmenu: contact\nbody_classes: 'title-center title-h1h2'"
+    markdown: "# Une question ?\n## Contactez-nous !\n\n\n\n"
+    slug: contact
+    name: default.md

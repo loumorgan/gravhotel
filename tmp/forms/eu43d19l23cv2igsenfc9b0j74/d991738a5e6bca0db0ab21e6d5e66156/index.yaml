@@ -1,0 +1,32 @@
+form: flex-pages
+unique_id: d991738a5e6bca0db0ab21e6d5e66156
+url: '/pages/presentationhotel/_titre/:add'
+user:
+  username: bleulou
+  email: loumorgan.preformation@gmail.com
+timestamps:
+  created: 1620229831
+  updated: 1620229831
+data: null
+files: {  }
+object:
+  type: pages
+  key: presentationhotel/_titre
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: 02.presentationhotel
+    order: false
+    folder: _titre
+    template: text
+    lang: ''
+    root: false
+    route: /presentationhotel
+    name: modular/text
+    modular: '1'
+    header:
+      title: Titre
+      body_classes: modular
+    frontmatter: "title: Titre\nbody_classes: modular\n"
