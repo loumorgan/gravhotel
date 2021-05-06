@@ -1,0 +1,42 @@
+1620895347
+a:2:{s:7:"content";s:1286:"<div id="content-slide">
+  <div class="slideme">
+    </div>
+</div>
+
+<h1>Erreur : Frontmatter invalide</h1>
+<p>Chemin: <code>C:/Users/Lou Morgan/Documents/handigital/formation/web-dev/xampp/htdocs/grav/user/pages/01.home/_showcase/showcase.md</code></p>
+<p><strong>Failed to read C:/Users/Lou Morgan/Documents/handigital/formation/web-dev/xampp/htdocs/grav/user/pages/01.home/_showcase/showcase.md: You cannot define a sequence item when in a mapping at line 19 (near "- image: image1.jpg")</strong></p>
+<pre><code>---
+title: Showcase
+menu: Top
+
+slides:
+  - image: image1.jpg
+    heading: "We &lt;strong&gt;deliver&lt;/strong&gt; nothing short of awesome !"
+    subheading: "Check out our portfolio to see our great work.."
+    button_text: PORTFOLIO
+    button_url: http://learn.getgrav.org
+    - image: image1.jpg
+    heading: "We &lt;strong&gt;deliver&lt;/strong&gt; nothing short of awesome !"
+    subheading: "Check out our portfolio to see our great work.."
+    button_text: PORTFOLIO
+    button_url: http://learn.getgrav.org
+---
+</code></pre>
+
+<script type="text/javascript">
+$('#content-slide').slideme({
+  arrows: ,
+  autoslide: ,
+  autoslideHoverStop: ,
+  interval: ,
+  loop: ,
+  pagination: "numbers",
+  transition : '',
+  itemsForSlide: ,
+  touch: ,
+  swipe: ,
+});
+</script>
+";s:12:"content_meta";N;}

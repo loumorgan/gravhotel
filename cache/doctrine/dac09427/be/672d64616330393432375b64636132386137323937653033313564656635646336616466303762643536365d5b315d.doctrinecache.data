@@ -1,0 +1,24 @@
+1620893648
+a:2:{s:7:"content";s:307:"<div id="content-slide">
+  <div class="slideme">
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+$('#content-slide').slideme({
+  arrows: ,
+  autoslide: ,
+  autoslideHoverStop: ,
+  interval: ,
+  loop: ,
+  pagination: "numbers",
+  transition : '',
+  itemsForSlide: ,
+  touch: ,
+  swipe: ,
+
+});
+</script>
+";s:12:"content_meta";N;}

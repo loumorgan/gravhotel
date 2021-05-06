@@ -1,0 +1,14 @@
+1620132713
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:7:"Contact";s:4:"menu";s:14:"Nous contacter";s:12:"body_classes";s:10:"title-h1h2";s:16:"never_cache_twig";b:1;s:7:"process";a:2:{s:8:"markdown";b:0;s:4:"twig";b:0;}}s:11:"frontmatter";s:130:"title: Contact
+menu: 'Nous contacter'
+body_classes: title-h1h2
+never_cache_twig: true
+process:
+    markdown: false
+    twig: false";s:8:"markdown";s:161:"<h1>Une question ? Une envie ?</h1>
+<h2>contactez-nous !</h2>
+<div class="contactForm">
+<form>
+<input type="textarea" value="pouet pouet"></input>
+</form>
+</div>";}s:7:"storage";a:8:{s:3:"key";s:7:"contact";s:11:"storage_key";s:16:"03.contact|form.";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1620129673;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1620129673;}}s:8:"checksum";s:32:"8e094175af3fc21a486e629b8b8f5086";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

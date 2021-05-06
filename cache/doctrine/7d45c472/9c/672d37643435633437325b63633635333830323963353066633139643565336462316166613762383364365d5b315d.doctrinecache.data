@@ -1,0 +1,30 @@
+1620891900
+a:2:{s:7:"content";s:662:"<div id="content-slide">
+  <div class="slideme">
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/01.home/_showcase/image1.jpg);">
+          <h1>Grav Hôtel</h1>
+          <h2>l&#039;excellence Martienne...</h2>
+          <a class="button" href="http://learn.getgrav.org">En savoir plus</a>
+      </div>
+  </div>
+</div>
+
+<h1>Grav Hôtel</h1>
+<h2>l'excellence Martienne...</h2>
+
+<script type="text/javascript">
+$('#content-slide').slideme({
+  arrows: ,
+  autoslide: ,
+  autoslideHoverStop: ,
+  interval: ,
+  loop: ,
+  pagination: "numbers",
+  transition : '',
+  itemsForSlide: ,
+  touch: ,
+  swipe: ,
+
+});
+</script>
+";s:12:"content_meta";N;}

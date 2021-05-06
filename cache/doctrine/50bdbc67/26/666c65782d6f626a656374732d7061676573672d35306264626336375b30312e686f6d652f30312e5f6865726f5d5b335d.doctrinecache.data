@@ -1,0 +1,6 @@
+1620287209
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:13:"Accueil titre";s:4:"menu";s:7:"Accueil";s:12:"hero_classes";s:19:"parallax text-light";s:10:"hero_image";s:10:"header.jpg";}s:11:"frontmatter";s:91:"title: Accueil titre
+menu: Accueil
+hero_classes: parallax text-light
+hero_image: header.jpg";s:8:"markdown";s:42:"# Grav Hôtel
+## l'excellence Martienne...";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_hero";s:11:"storage_key";s:16:"01.home/01._hero";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1620286534;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"hero";i:1620286534;}}s:8:"checksum";s:32:"1a7213b0db6ae8d9eaeadf003fada4b8";}}

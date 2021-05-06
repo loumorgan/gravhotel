@@ -1,0 +1,11 @@
+1620310585
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"contact/_main";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:7:"Contact";s:5:"class";s:12:"borderbottom";s:7:"process";a:1:{s:4:"twig";b:1;}}s:11:"frontmatter";s:56:"title: Contact
+class: borderbottom
+process:
+  twig: true";s:8:"markdown";s:157:"#### Our Location
+We are the first hotel on Mars so... you can't miss us!
+
+9 - 3815 Musk Avenue <br />
+Mars First Block, Space X block <br />
+S7R 1A3 <br />
+";}s:7:"storage";a:6:{s:3:"key";s:13:"contact/_main";s:11:"storage_key";s:16:"03.contact/_main";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1620288088;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1620288088;}}s:8:"checksum";s:32:"b7ba96c0ab16b49d551694181d4db0b9";}}

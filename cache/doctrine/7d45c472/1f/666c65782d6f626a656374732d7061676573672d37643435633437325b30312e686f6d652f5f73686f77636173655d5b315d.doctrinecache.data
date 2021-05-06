@@ -1,0 +1,9 @@
+1620287741
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_showcase";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:13:"Accueil titre";s:4:"menu";s:7:"Accueil";s:6:"slides";a:1:{i:0;a:5:{s:5:"image";s:10:"image1.jpg";s:7:"heading";s:11:"Grav Hôtel";s:10:"subheading";s:25:"l'excellence Martienne...";s:11:"button_text";s:14:"En savoir plus";s:10:"button_url";s:24:"http://learn.getgrav.org";}}}s:11:"frontmatter";s:208:"title: Accueil titre
+menu: Accueil
+slides:
+  - image: image1.jpg
+    heading: "Grav Hôtel"
+    subheading: "l'excellence Martienne..."
+    button_text: En savoir plus
+    button_url: http://learn.getgrav.org";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_showcase";s:11:"storage_key";s:17:"01.home/_showcase";s:8:"template";s:8:"showcase";s:17:"storage_timestamp";i:1620287109;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"showcase";i:1620287109;}}s:8:"checksum";s:32:"21daea22202e2ce462ddf0aaddac769e";}}

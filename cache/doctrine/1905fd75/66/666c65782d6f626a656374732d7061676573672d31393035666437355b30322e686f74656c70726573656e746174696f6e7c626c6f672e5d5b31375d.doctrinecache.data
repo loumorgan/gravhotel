@@ -1,0 +1,11 @@
+1620130057
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:17:"hotelpresentation";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:5:"Hotel";s:4:"menu";s:16:"L'établissement";s:12:"body_classes";s:10:"title-h1h2";s:16:"never_cache_twig";b:1;s:10:"child_type";s:4:"blog";}s:11:"frontmatter";s:103:"title: Hotel
+menu: 'L''établissement'
+body_classes: title-h1h2
+never_cache_twig: true
+child_type: blog";s:8:"markdown";s:162:"# Grav Hôtel,
+## une visite virtuelle
+![patrick-perkins-SfyI_4Vw5Fc-unsplash](patrick-perkins-SfyI_4Vw5Fc-unsplash.jpg "patrick-perkins-SfyI_4Vw5Fc-unsplash")
+
+
+";}s:7:"storage";a:9:{s:3:"key";s:17:"hotelpresentation";s:11:"storage_key";s:26:"02.hotelpresentation|blog.";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1620129382;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1620129382;}}s:8:"children";a:1:{s:12:"nos-chambres";b:0;}s:8:"checksum";s:32:"a594c3f3d85a9b9616ff4f4168ca27c7";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

@@ -1,0 +1,20 @@
+1620130917
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:17:"hotelpresentation";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:5:"Hotel";s:4:"menu";s:16:"L'établissement";s:12:"body_classes";s:10:"title-h1h2";s:16:"never_cache_twig";b:1;s:10:"hero_image";s:40:"patrick-perkins-SfyI_4Vw5Fc-unsplash.jpg";s:7:"content";a:5:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"limit";i:5;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}}s:11:"frontmatter";s:297:"title: Hotel
+menu: 'L''établissement'
+body_classes: title-h1h2
+never_cache_twig: true
+hero_image: patrick-perkins-SfyI_4Vw5Fc-unsplash.jpg
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true";s:8:"markdown";s:162:"# Grav Hôtel,
+## une visite virtuelle
+![patrick-perkins-SfyI_4Vw5Fc-unsplash](patrick-perkins-SfyI_4Vw5Fc-unsplash.jpg "patrick-perkins-SfyI_4Vw5Fc-unsplash")
+
+
+";}s:7:"storage";a:7:{s:3:"key";s:17:"hotelpresentation";s:11:"storage_key";s:20:"02.hotelpresentation";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1620129617;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1620129617;}}s:8:"children";a:1:{s:12:"nos-chambres";b:0;}s:8:"checksum";s:32:"f00f527d20f401d13a70c72e90367492";}}

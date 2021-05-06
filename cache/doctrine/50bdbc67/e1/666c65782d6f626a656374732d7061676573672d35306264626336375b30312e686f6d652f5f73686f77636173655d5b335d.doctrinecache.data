@@ -1,0 +1,26 @@
+1620287544
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_showcase";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:13:"Accueil titre";s:4:"menu";s:7:"Accueil";s:6:"slides";a:4:{i:0;a:5:{s:5:"image";s:10:"image1.jpg";s:7:"heading";s:54:"We <strong>deliver</strong> nothing short of awesome !";s:10:"subheading";s:47:"Check out our portfolio to see our great work..";s:11:"button_text";s:9:"PORTFOLIO";s:10:"button_url";s:24:"http://learn.getgrav.org";}i:1;a:5:{s:5:"image";s:10:"image2.jpg";s:7:"heading";s:65:"Aenean lacinia <strong>bibendum</strong> nulla sed consectetur. !";s:10:"subheading";s:48:"Etiam porta sem malesuada magna mollis euismod..";s:11:"button_text";s:5:"LOREM";s:10:"button_url";s:24:"http://learn.getgrav.org";}i:2;a:5:{s:5:"image";s:10:"image3.jpg";s:7:"heading";s:68:"Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !";s:10:"subheading";s:52:"Donec ullamcorper nulla non metus auctor fringilla..";s:11:"button_text";s:5:"DONEC";s:10:"button_url";s:24:"http://learn.getgrav.org";}i:3;a:5:{s:5:"image";s:10:"image4.jpg";s:7:"heading";s:59:"Sed <strong>posuere</strong> consectetur est at lobortis. !";s:10:"subheading";s:50:"Cras mattis consectetur purus sit amet fermentum..";s:11:"button_text";s:4:"CRAS";s:10:"button_url";s:24:"http://learn.getgrav.org";}}}s:11:"frontmatter";s:976:"title: Accueil titre
+menu: Accueil
+slides:
+  - image: image1.jpg
+    heading: "We <strong>deliver</strong> nothing short of awesome !"
+    subheading: "Check out our portfolio to see our great work.."
+    button_text: PORTFOLIO
+    button_url: http://learn.getgrav.org
+  - image: image2.jpg
+    heading: "Aenean lacinia <strong>bibendum</strong> nulla sed consectetur. !"
+    subheading: "Etiam porta sem malesuada magna mollis euismod.."
+    button_text: LOREM
+    button_url: http://learn.getgrav.org
+  - image: image3.jpg
+    heading: "Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !"
+    subheading: "Donec ullamcorper nulla non metus auctor fringilla.."
+    button_text: DONEC
+    button_url: http://learn.getgrav.org  
+  - image: image4.jpg
+    heading: "Sed <strong>posuere</strong> consectetur est at lobortis. !"
+    subheading: "Cras mattis consectetur purus sit amet fermentum.."
+    button_text: CRAS
+    button_url: http://learn.getgrav.org 
+";s:8:"markdown";s:42:"# Grav Hôtel
+## l'excellence Martienne...";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_showcase";s:11:"storage_key";s:17:"01.home/_showcase";s:8:"template";s:8:"showcase";s:17:"storage_timestamp";i:1620286925;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"showcase";i:1620286925;}}s:8:"checksum";s:32:"84c601170385106a0d1a8da65eba3674";}}

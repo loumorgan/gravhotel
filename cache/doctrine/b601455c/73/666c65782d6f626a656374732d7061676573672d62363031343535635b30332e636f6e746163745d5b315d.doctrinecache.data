@@ -1,0 +1,54 @@
+1620279291
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:7:"contact";s:4:"menu";s:7:"Contact";s:12:"body_classes";s:23:"title-center title-h1h2";s:4:"form";a:3:{s:6:"fields";a:4:{s:4:"name";a:3:{s:4:"type";s:4:"text";s:5:"label";s:3:"Nom";s:8:"validate";a:2:{s:8:"required";b:1;s:7:"message";s:21:"Renseignez votre nom!";}}s:5:"email";a:3:{s:4:"type";s:4:"text";s:5:"label";s:5:"Email";s:8:"validate";a:3:{s:4:"type";s:5:"email";s:8:"required";b:1;s:7:"message";s:23:"Renseignez votre email!";}}s:7:"subject";a:3:{s:4:"type";s:4:"text";s:5:"label";s:5:"Objet";s:8:"validate";a:2:{s:8:"required";b:1;s:7:"message";s:36:"Renseignez l'objet de votre message!";}}s:7:"message";a:3:{s:4:"type";s:8:"textarea";s:5:"label";s:13:"Votre message";s:8:"validate";a:1:{s:8:"required";b:1;}}}s:7:"buttons";a:1:{s:6:"submit";a:2:{s:4:"type";s:6:"submit";s:5:"value";s:7:"Envoyez";}}s:7:"process";a:4:{s:4:"save";a:4:{s:10:"fileprefix";s:8:"contact-";s:10:"dateformat";s:9:"Ymd-His-u";s:9:"extension";s:3:"txt";s:4:"body";s:35:"{% include 'forms/data.txt.twig' %}";}s:5:"email";a:2:{s:7:"subject";s:38:"[Site Contact] {{ form.value.name|e }}";s:4:"body";s:36:"{% include 'forms/data.html.twig' %}";}s:7:"message";s:25:"Merci pour votre message!";s:7:"display";s:8:"thankyou";}}}s:11:"frontmatter";s:1012:"title: contact
+menu: Contact
+body_classes: 'title-center title-h1h2'
+form:
+ fields:
+   name:
+     type: text
+     label: Nom
+     validate:
+       required: true
+       message: Renseignez votre nom!
+
+   email:
+     type: text
+     label: Email
+     validate:
+       type: email
+       required: true
+       message: Renseignez votre email!
+
+   subject:
+     type: text
+     label: Objet
+     validate:
+       required: true
+       message: Renseignez l'objet de votre message!
+
+   message:
+     type: textarea
+     label: Votre message
+     validate:
+       required: true
+
+
+ buttons:
+   submit:
+     type: submit
+     value: Envoyez
+
+ process:
+        save:
+            fileprefix: contact-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: "{% include 'forms/data.txt.twig' %}"
+        email:
+            subject: "[Site Contact] {{ form.value.name|e }}"
+            body: "{% include 'forms/data.html.twig' %}"
+        message: Merci pour votre message!
+        display: thankyou";s:8:"markdown";s:38:"# Une question ?
+## Contactez-nous !
+
+";}s:7:"storage";a:7:{s:3:"key";s:7:"contact";s:11:"storage_key";s:10:"03.contact";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1620278554;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1620278554;}}s:8:"children";a:1:{s:8:"thankyou";b:0;}s:8:"checksum";s:32:"9d4f24266565c5985479294ed8a3c520";}}

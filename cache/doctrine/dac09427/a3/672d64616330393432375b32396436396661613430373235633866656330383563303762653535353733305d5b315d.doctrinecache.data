@@ -1,0 +1,34 @@
+1620896251
+a:2:{s:7:"content";s:958:"<div class="modular-row portfolio">
+    <hr />
+<p>title: Portfolio
+portfolio:</p>
+<ul>
+<li>title: Capsule BedRoom
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: capsule.jpg
+modalid: 1
+category: Room
+url: /capsulebedroom</li>
+<li>title: Single BedRoom
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: single2.jpg
+modalid: 2
+category: Room
+url: /singlebedroom</li>
+<li>title: King sized BedRoom
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: kingsize1.jpg
+modalid: 3
+category: Room
+url: /singlekingsizebedroom</li>
+<li>title: Double King sized Bedroom
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: kingsize2.jpg
+modalid: 4
+category: Room
+url: /doublekingsizebedroom</li>
+</ul>
+    </div>
+
+";s:12:"content_meta";N;}

@@ -1,0 +1,42 @@
+1620895611
+a:2:{s:7:"content";s:1135:"<div class="modular-row portfolio">
+    <hr />
+<p>title: Portfolio
+portfolio:</p>
+<ul>
+<li>title: Paradigm
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: paradigm.jpg
+modalid: 1
+client: RocketTheme
+date: April 2014
+category: Web Development
+url: http://www.rockettheme.com</li>
+<li>title: Lexicon
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: lexicon.jpg
+modalid: 2
+client: RocketTheme
+date: April 2014
+category: Web Development
+url: http://www.rockettheme.com</li>
+<li>title: Osmosis
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: osmosis.jpg
+modalid: 3
+client: RocketTheme
+date: April 2014
+category: Web Development
+url: http://www.rockettheme.com</li>
+<li>title: Chimera
+desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+image: chimera.jpg
+modalid: 4
+client: RocketTheme
+date: April 2014
+category: Web Development
+url: http://www.rockettheme.com</li>
+</ul>
+    </div>
+
+";s:12:"content_meta";N;}

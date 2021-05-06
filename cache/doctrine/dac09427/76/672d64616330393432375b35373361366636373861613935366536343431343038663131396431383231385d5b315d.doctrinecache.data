@@ -1,0 +1,24 @@
+1620914146
+a:2:{s:7:"content";s:543:"<div id="content-slide">
+  <div class="slideme">
+    </div>
+</div>
+
+<h2>Do you need a website ?</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo ligula, interdum ut lobortis quis, interdum vitae metus. Proin fringilla metus non nulla cursus, sit amet rutrum est pretium.</p>
+
+<script type="text/javascript">
+$('#content-slide').slideme({
+  arrows: ,
+  autoslide: ,
+  autoslideHoverStop: ,
+  interval: ,
+  loop: ,
+  pagination: "numbers",
+  transition : '',
+  itemsForSlide: ,
+  touch: ,
+  swipe: ,
+});
+</script>
+";s:12:"content_meta";N;}

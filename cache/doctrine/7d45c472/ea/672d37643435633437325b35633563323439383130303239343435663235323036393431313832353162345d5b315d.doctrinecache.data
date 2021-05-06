@@ -1,0 +1,45 @@
+1620891820
+a:2:{s:7:"content";s:1549:"<div id="content-slide">
+  <div class="slideme">
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/01.home/_showcase/image1.jpg);">
+          <h1>Grav Hôtel</h1>
+          <h2>Check out our portfolio to see our great work..</h2>
+          <a class="button" href="http://learn.getgrav.org">PORTFOLIO</a>
+      </div>
+         <div class="modular-row showcase flush-top" >
+          <h1>Aenean lacinia <strong>bibendum</strong> nulla sed consectetur. !</h1>
+          <h2>Etiam porta sem malesuada magna mollis euismod..</h2>
+          <a class="button" href="http://learn.getgrav.org">LOREM</a>
+      </div>
+         <div class="modular-row showcase flush-top" >
+          <h1>Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !</h1>
+          <h2>Donec ullamcorper nulla non metus auctor fringilla..</h2>
+          <a class="button" href="http://learn.getgrav.org">DONEC</a>
+      </div>
+         <div class="modular-row showcase flush-top" >
+          <h1>Sed <strong>posuere</strong> consectetur est at lobortis. !</h1>
+          <h2>Cras mattis consectetur purus sit amet fermentum..</h2>
+          <a class="button" href="http://learn.getgrav.org">CRAS</a>
+      </div>
+  </div>
+</div>
+
+<h1>Grav Hôtel</h1>
+<h2>l'excellence Martienne...</h2>
+
+<script type="text/javascript">
+$('#content-slide').slideme({
+  arrows: ,
+  autoslide: ,
+  autoslideHoverStop: ,
+  interval: ,
+  loop: ,
+  pagination: "numbers",
+  transition : '',
+  itemsForSlide: ,
+  touch: ,
+  swipe: ,
+
+});
+</script>
+";s:12:"content_meta";N;}
