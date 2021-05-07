@@ -1,4 +1,4 @@
-1620371145
+1620310585
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"hotelpresentation/rooms";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:5:"rooms";s:4:"menu";s:9:"Room Tour";s:12:"body_classes";s:29:"modular header-lite fullwidth";s:8:"bg_color";s:7:"#B4B093";s:7:"content";a:2:{s:5:"items";s:13:"@self.modular";s:5:"order";a:3:{s:2:"by";s:7:"default";s:3:"dir";s:3:"asc";s:6:"custom";a:2:{i:0;s:10:"_portfolio";i:1;s:7:"_bottom";}}}}s:11:"frontmatter";s:240:"title: rooms
 menu: Room Tour
 body_classes: "modular header-lite fullwidth"

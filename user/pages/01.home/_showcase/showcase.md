@@ -4,7 +4,7 @@ menu: Top
 
 slides:
   - image: image1.jpg
-    heading: '<strong>Grav</strong> Hotel'
+    heading: Grav Hotel
     subheading: experiment the Martian excellence ..
     button_text: See More
     button_url: /hotelpresentation

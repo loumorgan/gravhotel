@@ -25,7 +25,7 @@
 {% for portfolio in page.header.portfolio %}
     <div class="portfolio-modal modal" id="portfolioModal{{ portfolio.modalid }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
-            <!-- div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div -->
+            <div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
             <div class="modal-body">
                 <h1>{{ portfolio.title }}</h1>
                 <a href="{{ portfolio.url }}">
@@ -33,7 +33,7 @@
                 </a>
                 <p>{{ portfolio.desc }}</p>
                 <ul class="client-details">
-                    <li>Prix:
+                    <li>Client:
                         <strong>
                             <a href="{{ portfolio.url }}">{{ portfolio.client }}</a>
                         </strong>
