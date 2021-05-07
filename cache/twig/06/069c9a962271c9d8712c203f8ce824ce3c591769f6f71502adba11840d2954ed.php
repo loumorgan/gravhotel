@@ -101,7 +101,7 @@ class __TwigTemplate_e8d12c262e52a340407e4d82e1a6c587a194f5917d2e56f3377b594629b
             echo twig_escape_filter($this->env, $this->getAttribute($context["portfolio"], "modalid", []), "html", null, true);
             echo "\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">
         <div class=\"modal-content\">
-            <div class=\"close-modal\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i></div>
+            <!-- div class=\"close-modal\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i></div -->
             <div class=\"modal-body\">
                 <h1>";
             // line 30
@@ -123,7 +123,7 @@ class __TwigTemplate_e8d12c262e52a340407e4d82e1a6c587a194f5917d2e56f3377b594629b
             echo twig_escape_filter($this->env, $this->getAttribute($context["portfolio"], "desc", []), "html", null, true);
             echo "</p>
                 <ul class=\"client-details\">
-                    <li>Client:
+                    <li>Prix:
                         <strong>
                             <a href=\"";
             // line 38
@@ -213,7 +213,7 @@ class __TwigTemplate_e8d12c262e52a340407e4d82e1a6c587a194f5917d2e56f3377b594629b
 {% for portfolio in page.header.portfolio %}
     <div class=\"portfolio-modal modal\" id=\"portfolioModal{{ portfolio.modalid }}\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">
         <div class=\"modal-content\">
-            <div class=\"close-modal\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i></div>
+            <!-- div class=\"close-modal\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i></div -->
             <div class=\"modal-body\">
                 <h1>{{ portfolio.title }}</h1>
                 <a href=\"{{ portfolio.url }}\">
@@ -221,7 +221,7 @@ class __TwigTemplate_e8d12c262e52a340407e4d82e1a6c587a194f5917d2e56f3377b594629b
                 </a>
                 <p>{{ portfolio.desc }}</p>
                 <ul class=\"client-details\">
-                    <li>Client:
+                    <li>Prix:
                         <strong>
                             <a href=\"{{ portfolio.url }}\">{{ portfolio.client }}</a>
                         </strong>

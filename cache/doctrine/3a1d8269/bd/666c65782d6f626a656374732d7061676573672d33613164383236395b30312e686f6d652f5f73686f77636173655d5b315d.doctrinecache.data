@@ -1,4 +1,4 @@
-1620310585
+1620371145
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_showcase";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:8:"Showcase";s:4:"menu";s:3:"Top";s:6:"slides";a:1:{i:0;a:5:{s:5:"image";s:10:"image1.jpg";s:7:"heading";s:10:"Grav Hotel";s:10:"subheading";s:36:"experiment the Martian excellence ..";s:11:"button_text";s:8:"See More";s:10:"button_url";s:18:"/hotelpresentation";}}}s:11:"frontmatter";s:194:"title: Showcase
 menu: Top
 

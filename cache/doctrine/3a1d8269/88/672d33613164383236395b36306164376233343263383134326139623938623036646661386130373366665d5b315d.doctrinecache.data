@@ -1,0 +1,170 @@
+1620977931
+a:2:{s:7:"content";s:9081:"<div class="modular-row portfolio">
+    
+            <div class="notebooks">
+                            <div class="notebook-row">
+                                            <div class="notebook">
+                            <div class="desc">
+                                <h4>Capsule BedRoom</h4>
+                                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                            </div>
+                            <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                                <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/02.hotelpresentation/02.rooms/_portfolio/capsule.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                            </a>
+                            <div class='keyboard'></div>
+                        </div>
+                                            <div class="notebook">
+                            <div class="desc">
+                                <h4>Single BedRoom</h4>
+                                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                            </div>
+                            <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                                <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/02.hotelpresentation/02.rooms/_portfolio/single2.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                            </a>
+                            <div class='keyboard'></div>
+                        </div>
+                                            <div class="notebook">
+                            <div class="desc">
+                                <h4>King sized BedRoom</h4>
+                                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                            </div>
+                            <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                                <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/02.hotelpresentation/02.rooms/_portfolio/kingsize1.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                            </a>
+                            <div class='keyboard'></div>
+                        </div>
+                                            <div class="notebook">
+                            <div class="desc">
+                                <h4>Double King sized Bedroom</h4>
+                                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                            </div>
+                            <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                                <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/02.hotelpresentation/02.rooms/_portfolio/kingsize2.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                            </a>
+                            <div class='keyboard'></div>
+                        </div>
+                                    </div>
+                    </div>
+    </div>
+
+    <div class="portfolio-modal modal" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <!-- div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div -->
+            <div class="modal-body">
+                <h1>Capsule BedRoom</h1>
+                <a href="/capsulebedroom">
+                    <img src="/user/pages/02.hotelpresentation/02.rooms/_portfolio/capsule.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Prix:
+                        <strong>
+                            <a href="/capsulebedroom">RocketTheme</a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            April 2014
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Room
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <!-- div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div -->
+            <div class="modal-body">
+                <h1>Single BedRoom</h1>
+                <a href="/singlebedroom">
+                    <img src="/user/pages/02.hotelpresentation/02.rooms/_portfolio/single2.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Prix:
+                        <strong>
+                            <a href="/singlebedroom"></a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Room
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <!-- div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div -->
+            <div class="modal-body">
+                <h1>King sized BedRoom</h1>
+                <a href="/singlekingsizebedroom">
+                    <img src="/user/pages/02.hotelpresentation/02.rooms/_portfolio/kingsize1.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Prix:
+                        <strong>
+                            <a href="/singlekingsizebedroom"></a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Room
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <!-- div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div -->
+            <div class="modal-body">
+                <h1>Double King sized Bedroom</h1>
+                <a href="/doublekingsizebedroom">
+                    <img src="/user/pages/02.hotelpresentation/02.rooms/_portfolio/kingsize2.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Prix:
+                        <strong>
+                            <a href="/doublekingsizebedroom"></a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Room
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+";s:12:"content_meta";N;}
